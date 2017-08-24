@@ -1,7 +1,7 @@
 
 # Caculate accuracy
 
-Illustration of functions from these versions
+Illustration of functions from these versions:
   
 * calculate_accuracy_v2:  
 Basically complete the mission which calculating the accuracy of caption's result.
