@@ -1,0 +1,1 @@
+# Record newest stable version
